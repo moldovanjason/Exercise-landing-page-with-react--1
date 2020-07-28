@@ -9,16 +9,16 @@ export function Jumbotron() {
 			<div className="jumbotron">
 				<h1 className="display-4">Hello, world!</h1>
 				<p className="lead">
-					This is a simple hero unit, a simple jumbotron-style
-					component for calling extra attention to featured content or
-					information.
+					Shortstache is a Freelance Photographer that goes by the
+					name of Garrett King. He's based in Los Angeles, California.
+					He travels all around the world to get the best shots.
 				</p>
 				<hr className="my-4" />
-				<p>
-					It uses utility classes for typography and spacing to space
-					content out within the larger container.
-				</p>
-				<a className="btn btn-primary btn-lg" href="#" role="button">
+				<p>Click "Learn more" to be directed to his website.</p>
+				<a
+					className="btn btn-primary btn-lg"
+					href="https://www.shortstache.com/"
+					role="button">
 					Learn more
 				</a>
 			</div>
