@@ -6,7 +6,7 @@ import React from "react";
 export function Card() {
 	const cardTitles = [
 		{
-			title: "Summer Hikes",
+			title: "Summer Hike",
 			imgUrl: "https://i.ytimg.com/vi/pYuhN1z_TD8/maxresdefault.jpg"
 		},
 		{
