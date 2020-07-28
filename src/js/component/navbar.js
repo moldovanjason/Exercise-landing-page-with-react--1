@@ -33,13 +33,6 @@ export function Navbar() {
 						<a className="nav-item nav-link" href="#">
 							Pricing
 						</a>
-						<a
-							className="nav-item nav-link disabled"
-							href="#"
-							tabIndex="-1"
-							aria-disabled="true">
-							Disabled
-						</a>
 					</div>
 				</div>
 			</nav>
