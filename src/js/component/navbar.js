@@ -27,7 +27,7 @@ export function Navbar() {
 						<a className="nav-item nav-link active" href="#">
 							Home <span className="sr-only">(current)</span>
 						</a>
-						<a classNames="nav-item nav-link" href="#">
+						<a className="nav-item nav-link" href="#">
 							Features
 						</a>
 						<a className="nav-item nav-link" href="#">
